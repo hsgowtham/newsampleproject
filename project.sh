@@ -1,1 +1,1 @@
-echo "This is my jenkins project"
+echo "This is my jenkins project, first webhook test"
